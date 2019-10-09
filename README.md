@@ -1,2 +1,0 @@
-# miku-pixel.io
-blog
